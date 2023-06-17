@@ -26,3 +26,7 @@ Para darle un poco de enfoque al curso, se recomienda realizar los primeros paso
     - para acentar un poco los conocimientos adquiridos en el paso a paso de este tutorial, se recomienda [ver este video de js en youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 Algunas pruebas se puede realizar en un ambiente local, que poco a poco irán aprendiendo a manejar o apoyarse en una herramienta como [JSfiddle](https://jsfiddle.net/)
+
+## Ya hice todo lo anterior. ¿Ahora qué sigue?
+
+[Temario](./temario)
