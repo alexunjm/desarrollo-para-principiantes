@@ -36,9 +36,9 @@
 10. Ejercicio de encontrar números pares e impares en una lista:
     Escribe un algoritmo que tome una lista de números como entrada y separe los números pares de los impares en dos listas diferentes.
 
-## Solución
+## Solución Ejercicio 1
 
-### 1. Paso a paso - Suma de dos números
+### Paso a paso - Suma de dos números
 
 1. Inicio
 2. Leer el primer número (num1)
@@ -47,11 +47,11 @@
 5. Mostrar el valor de suma
 6. Fin
 
-## 2. El diagrama de flujo
+## El diagrama de flujo
 
 ![Image](./img/1-ejercicio-diagrama-flujo.svg "Ejemplo diagrama de flujo")
 
-## 3. El script
+## El script
 
 ```javascript
 const num1 = 10;
