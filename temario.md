@@ -14,4 +14,4 @@
 
 7. Programación web avanzada: En este módulo, se introduce a la programación web avanzada en JavaScript, incluyendo el uso de objetos de JavaScript, la creación de aplicaciones web complejas con JavaScript, y el uso de bibliotecas y frameworks de JavaScript como React.
 
-[Iniciar](./modulo-1.md)
+[Iniciar](./capitulo-1.md)
