@@ -29,4 +29,4 @@ Algunas pruebas se puede realizar en un ambiente local, que poco a poco irán ap
 
 ## Ya hice todo lo anterior. ¿Ahora qué sigue?
 
-[Temario](./temario)
+[Temario](./temario.md)
