@@ -84,3 +84,7 @@ console.log("La suma de los dos números es: " + suma);
 ## Nota aclaratoria
 
 Es probable que no entiendas aún cómo solucionar varios de estos ejercicios. **No te preocupes**. Inicialmente, iremos navegando por una serie de ejemplos y ejercicios que te darán las bases escenciales para resolver cualquiera da estos e incluso muchos otros más.
+
+Veamos una estrategia de trabajo
+
+[Estrategia de trabajo](./3-estrategia.md)
