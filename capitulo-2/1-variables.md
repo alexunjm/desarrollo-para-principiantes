@@ -45,4 +45,5 @@ En este capítulo, exploraremos el concepto de variables en JavaScript, incluyen
 
     Revisar algunos de los ejercicios que se vienen trabajando, sobre la forma en que se están nombrando las variables y con qué palabra clave antes del nombre de la variable.
 
-<!-- ![Image](./img/ejemplo-diagrama-flujo.svg "Ejemplo diagrama de flujo") -->
+
+[Operadores en Javascript](./2-operadores.md)
