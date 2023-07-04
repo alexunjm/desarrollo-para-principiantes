@@ -29,4 +29,5 @@ Te dejo un [enlace introductorio](https://www.lucidchart.com/pages/es/que-es-un-
 Así que, ¿estás listo para empezar a aprender? ¡Genial! Hagamos que esto comience.
 
 [Ejercicios](./2-ejercicios.md)
+
 [Estrategia de trabajo](./3-estrategia.md)

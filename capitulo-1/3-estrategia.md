@@ -79,4 +79,5 @@ conteoRegresivo()
 ```
 
 [Ejercicios](./2-ejercicios.md)
-[Estrategia de trabajo](./3-estrategia.md)
+
+[Capítulo 2](../../2/capitulo-2/1-variables.md)
