@@ -73,6 +73,8 @@ En este capítulo, exploraremos el concepto de funciones en JavaScript, incluyen
 
     Es importante comprender cómo funcionan los funciones para reutilizar algoritmos ya creados.
 
+[Ejercicios](./6-ejercicios.md)
+
 <!-- [Operadores en Javascript](./3-condicionales.md) -->
 <!-- 
 
