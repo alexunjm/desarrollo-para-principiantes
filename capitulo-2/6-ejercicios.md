@@ -1,3 +1,7 @@
+Variables y Condicionales:
+
+1. Escribe un programa que tome la edad de una persona como entrada y muestre un mensaje indicando si es mayor de edad o no.
+
 ```javascript
 /*
 1. Escribe un programa que tome la edad de una persona como entrada y muestre un mensaje indicando si es mayor de edad o no.
@@ -18,7 +22,12 @@ function ejercicio1() {
     validaMayoriaEdad(edadIngresada)
 }
 
-//ejercicio1()
+ejercicio1()
+```
+
+2. Crea un programa que solicite dos números al usuario y muestre cuál de ellos es mayor.
+
+```javascript
 
 
 /*
@@ -43,7 +52,12 @@ function ejercicio2() {
     mayorEntreAyB(A, B)
 }
 
-//ejercicio2()
+ejercicio2()
+```
+
+3. Diseña un programa que determine si un número ingresado por el usuario es positivo, negativo o cero.
+
+```javascript
 
 /*
 3. Diseña un programa que determine si un número ingresado por el usuario es positivo, negativo o cero
@@ -64,7 +78,12 @@ function ejercicio3() {
     tipoEntero(numero)
 }
 
-//ejercicio3()
+ejercicio3()
+```
+
+4. Desarrolla un programa que, dado un número, determine si es par o impar.
+
+```javascript
 
 /*
 Desarrolla un programa que, dado un número, determine si es par o impar.
@@ -82,7 +101,12 @@ function ejercicio4() {
     parOimpar(numero)
 }
 
-//ejercicio4()
+ejercicio4()
+```
+
+5. Escribe un programa que solicite el nombre de un día de la semana y muestre si es laborable o de descanso.
+
+```javascript
 
 /*
 5. Escribe un programa que solicite el nombre de un día de la semana y muestre si es laborable o de descanso.
@@ -102,3 +126,26 @@ function ejercicio5() {
 
 ejercicio5()
 ```
+
+Ciclos y Arreglos:
+
+6. Crea un programa que muestre los primeros N números naturales.
+7. Diseña un programa que sume todos los números pares del 1 al N.
+8. Escribe un programa que calcule el factorial de un número dado por el usuario.
+9.  Desarrolla un programa que genere la serie de Fibonacci hasta el término N.
+10. Crea un programa que encuentre el número mayor en un arreglo de números enteros.
+11. Diseña un programa que cuente la cantidad de números negativos en un arreglo.
+12. Escribe un programa que determine si un elemento dado está presente en un arreglo.
+13. Desarrolla un programa que muestre los elementos únicos de un arreglo (sin duplicados).
+
+Ciclos Anidados:
+
+14. Crea un programa que genere el patrón de asteriscos en forma de triángulo invertido.
+15. Diseña un programa que imprima la tabla de multiplicar del 1 al 10.
+16. Escribe un programa que genere un patrón numérico de escalera.
+17. Desarrolla un programa que muestre un patrón de asteriscos en forma de pirámide.
+18. Crea un programa que calcule la suma de matrices cuadradas.
+19. Diseña un programa que muestre una matriz transpuesta.
+20. Escribe un programa que encuentre la intersección de dos arreglos (elementos comunes).
+
+Estos enunciados deberían proporcionarte una variedad de ejercicios para practicar y mejorar tus habilidades de programación. ¡Diviértete resolviéndolos! Si necesitas ayuda con algún código en particular, no dudes en preguntar.
