@@ -8,13 +8,21 @@
 
 1. Ejercicios con operaciones matemáticas simples y manejo de caracteres:
 
-    a. Escribe un algoritmo que tome dos números como entrada y devuelva la suma de los dos números.
+   a. Escribe un algoritmo que tome dos números como entrada y devuelva la suma de los dos números.
 
-    b. Escribe un algoritmo que tome el nombre de una persona y muestre un mensaje de bienvenida. Ej: para la variable nombre = "Alex" el mensaje será "Bienvenido Alex".
+   b. Escribe un algoritmo que tome el nombre de una persona y muestre un mensaje de bienvenida. Ej: para la variable nombre = "Alex" el mensaje será "Bienvenido Alex".
 
-    c. Escribe un algoritmo que tome la edad de 4 estudiantes y calcule el promedio de la edad de los 4 y muestre el mensaje un mensaje con texto describiendo el resultado. Ej: para las edades 3, 4, 4, 5 el mensaje será "La edad promedio de los estudiantes es 4"
+   c. Escribe un algoritmo que tome la edad de 4 estudiantes y calcule el promedio de la edad de los 4 y muestre el mensaje un mensaje con texto describiendo el resultado. Ej: para las edades 3, 4, 4, 5 el mensaje será "La edad promedio de los estudiantes es 4"
 
-2. Ejercicios con condicionales:
+   d. Residuo de una división utilizando módulo. Dados dos numeros n1 y n2 calcular el residuo
+
+   e. División entera restando el residuo de la división. Ej 51 / 5 = 50. NOTA: Primero hay que restar el residuo para poder hacer la división entera
+
+   f. Dada la edad de una persona, mostrar cuántos años va a cumplir (utilizar incremento edad++)
+
+   g. Dada la edad de una persona, mostrar cuántos años tenía hace 1 años (decremento edad--)
+
+3. Ejercicios con condicionales:
 
     a. Escribe un algoritmo que tome tres números como entrada y determine cuál es el número mayor.
 
@@ -22,28 +30,34 @@
 
     c. Escribe un algoritmo que tome 4 números como entrada y determine cuál es el número mayor.
 
-3. Ejercicio de conteo regresivo:
+    d. Dado un número n decir si es par o no
+
+    e. Dado un número n decir si es múltiplo de 5
+
+    f. Dado un número n decir cuál es el múltiplo de 5 más cercano.
+
+4. Ejercicio de conteo regresivo:
    Escribe un algoritmo que tome un número como entrada y muestre todos los números en orden descendente hasta llegar a cero.
 
-4. Ejercicio de factorial:
+5. Ejercicio de factorial:
    Escribe un algoritmo que tome un número como entrada y calcule su factorial. El factorial de un número se calcula multiplicando ese número por todos los enteros positivos menores que él.
 
-5. Ejercicio de determinar si un número es primo:
+6. Ejercicio de determinar si un número es primo:
    Escribe un algoritmo que tome un número como entrada y determine si es primo o no. Un número primo es aquel que solo es divisible por 1 y por sí mismo.
 
-6. Ejercicio de encontrar el número máximo en una lista:
+7. Ejercicio de encontrar el número máximo en una lista:
    Escribe un algoritmo que tome una lista de números como entrada y determine el número máximo en esa lista.
 
-7. Ejercicio de ordenar una lista de números:
+8. Ejercicio de ordenar una lista de números:
    Escribe un algoritmo que tome una lista de números como entrada y la ordene en orden ascendente.
 
-8. Ejercicio de búsqueda en una lista:
+9. Ejercicio de búsqueda en una lista:
    Escribe un algoritmo que tome una lista de números y un número objetivo como entrada, y determine si el número objetivo está presente en la lista.
 
-9. Ejercicio de contar elementos en una lista:
+10. Ejercicio de contar elementos en una lista:
    Escribe un algoritmo que tome una lista de números como entrada y cuente cuántos elementos hay en la lista.
 
-10. Ejercicio de encontrar números pares e impares en una lista:
+11. Ejercicio de encontrar números pares e impares en una lista:
     Escribe un algoritmo que tome una lista de números como entrada y separe los números pares de los impares en dos listas diferentes.
 
 ## Solución Ejercicio 1
